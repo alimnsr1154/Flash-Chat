@@ -2,7 +2,7 @@
 
 A Flash chat Flutter project.
 
-## Getting Started
+## Description
 
 I created a group chat app where user can sign in and chat with his/her friends.I used Firebase Cloud Firestore for backend as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods.If you're a new user, you have to register first otherwise simply login and you will be directed to the chat screen.
 
