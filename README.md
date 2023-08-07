@@ -1,16 +1,13 @@
-# flash_chat
+# Flash Chat ⚡️
 
-A new Flutter project.
+A Flash chat Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+I created a group chat app where user can sign in and chat with his/her friends.I used Firebase Cloud Firestore for backend as well as the Firebase authentication package to equip our app with a cloud-based NoSQL database and secure authentication methods.If you're a new user, you have to register first otherwise simply login and you will be directed to the chat screen.
 
-A few resources to get you started if this is your first Flutter project:
+<div align="center" width="50">
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<img src="https://github.com/londonappbrewery/Images/raw/master/flash_chat_flutter_demo.gif" alt="Welcome!" width="250" height= "500" />
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+</div>
